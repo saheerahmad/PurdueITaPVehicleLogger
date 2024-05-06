@@ -1,0 +1,4 @@
+file_name,file_location
+data, files/data.csv
+info, files/info.csv
+log, files/log.txt
